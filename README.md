@@ -47,13 +47,9 @@ app.
 
 ## Contributing
 
-Found a bug or have an idea? Feel free to open an issue or submit a pull
-request. If you're planning a change, contributing it here first is
-appreciated because it helps keep improvements in one place and makes
-them useful to everyone.
-
-You're also welcome to fork and modify the project. Please keep the
-copyright and licence notices as required by the MIT License.
+Suggestions, bug reports, and pull requests are welcome. Please include
+your browser, the target tag or display size, and relevant AP details
+when reporting a problem.
 
 ## Running it
 
